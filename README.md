@@ -1,1 +1,1 @@
-# 888poker-dowmload-client-PC
+# 888poker-download-client-PC
